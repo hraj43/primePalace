@@ -1,4 +1,4 @@
-# free4talk - Chat Application 
+#primePalace realEstate website
 
 ![sign-up page](./images/sign_up.png)
 
