@@ -1,11 +1,12 @@
 # free4talk - Chat Application 
 
-Sign-up page
-![sign-up page](./images/Screenshot 2024-01-27 172606.png)
+![sign-up page](./images/sign_up.png)
+
+Home_page
+
+![home-page](./images/home-page.png)
 
 
-Home-page
-![home page](./images/Screenshot 2024-01-27 172714.png)
 
 ## Installation Guide
 
