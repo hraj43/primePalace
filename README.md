@@ -1,9 +1,11 @@
 # free4talk - Chat Application 
 
+Sign-up page
+![sign-up page](./images/Screenshot 2024-01-27 172606.png)
 
-![login page](./images/free4talk_login.png)
 
-![home page](./images/free4talk.png)
+Home-page
+![home page](./images/Screenshot 2024-01-27 172714.png)
 
 ## Installation Guide
 
@@ -14,37 +16,25 @@
 Both should be installed and make sure mongodb is running.
 
 
-Now rename env files from .env.example to .env
-```shell
-cd public
-mv .env.example .env
-cd ..
-cd server
-mv .env.example .env
-cd ..
-```
 
 Now install the dependencies
 ```shell
-cd server
-yarn
-cd ..
-cd public
-yarn
-```
+npm i 
+cd client
+npm i
 We are almost done, Now just start the development server.
 
 For Frontend.
 ```shell
-cd public
-yarn start
+cd client
+npm run dev
 ```
 For Backend.
 
 Open another terminal in folder, Also make sure mongodb is running in background.
 ```shell
-cd server
-yarn start
+cd api
+nodemon index.js
 ```
 
-Done! Now open localhost:3000 in your browser.
+Done! Now open localhost:5173 in your browser.
