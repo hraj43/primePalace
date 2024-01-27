@@ -6,6 +6,18 @@ Home_page
 
 ![home-page](./images/home-page.png)
 
+About_page
+
+![about-page](./images/about.png)
+
+Property Listed by you for sell or rent
+
+![Property-listed](./images/Property-listed.png)
+
+add new property for rent or for sell
+
+![create-listing](./images/property.png)
+
 
 
 ## Installation Guide
